@@ -1,3 +1,6 @@
+Seleccionar el apartado:RAMA
+Y ahí seleccionar el parcial que desea
+Revisar.
 
 / * *********************************************
 * Universidad Politécnica de Tulancingo *
