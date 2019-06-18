@@ -13,6 +13,8 @@
 4.-MiLibreria.cpp
 5.-TextoJSON.cpp
 6.-TextoLeer.cpp
-7.-
+7.-TresRectangulos.cpp
+8.-rectangulo.cpp
+9.-vector.cpp
 
 
