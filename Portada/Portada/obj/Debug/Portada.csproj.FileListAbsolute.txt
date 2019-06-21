@@ -1,0 +1,11 @@
+C:\Users\JOSE ADAN\source\repos\Portada\Portada\bin\Debug\Portada.exe.config
+C:\Users\JOSE ADAN\source\repos\Portada\Portada\bin\Debug\Portada.exe
+C:\Users\JOSE ADAN\source\repos\Portada\Portada\bin\Debug\Portada.pdb
+C:\Users\JOSE ADAN\source\repos\Portada\Portada\obj\Debug\Portada.csprojAssemblyReference.cache
+C:\Users\JOSE ADAN\source\repos\Portada\Portada\obj\Debug\Portada.Form1.resources
+C:\Users\JOSE ADAN\source\repos\Portada\Portada\obj\Debug\Portada.Properties.Resources.resources
+C:\Users\JOSE ADAN\source\repos\Portada\Portada\obj\Debug\Portada.csproj.GenerateResource.cache
+C:\Users\JOSE ADAN\source\repos\Portada\Portada\obj\Debug\Portada.csproj.CoreCompileInputs.cache
+C:\Users\JOSE ADAN\source\repos\Portada\Portada\obj\Debug\Portada.exe
+C:\Users\JOSE ADAN\source\repos\Portada\Portada\obj\Debug\Portada.pdb
+C:\Users\JOSE ADAN\source\repos\Portada\Portada\obj\Debug\Portada.AcercaDe.resources
